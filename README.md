@@ -6,3 +6,4 @@ run localhost/index.php.
 click on shorten URL,redirect to a page containig 2 text box that one containing collect main domain and another is the URL that we need to shorten.
 on save we get the shortend url and copy the url and click on back button.
 on home page click on lengthy URL button and paste to the text field and click on submit button we get the orginal URL.
+url -: https://alangeorge123.github.io/ShortURL/
